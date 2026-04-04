@@ -1,1 +1,0 @@
-HTTPConnectionPool(host='127.0.0.1', port=4646): Max retries exceeded with url: /ffxivlauncher/180026 (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4646): Failed to establish a new connection: [Errno 111] Connection refused"))
