@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=xiv2gen2
+Exec=python "/home/alex/git/xiv2gen2/main.py"
+Terminal=false
+Categories=ConsoleOnly;
+Keywords=ffxiv

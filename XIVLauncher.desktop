@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=XIVLauncher
+Exec=bash -e "/home/alex/git/xiv2gen2/automatic_launch.sh"
+Icon=xivlauncher
+Terminal=false
+Type=Application
+Categories=Game;
+StartupWMClass=XIVLauncher.Core
